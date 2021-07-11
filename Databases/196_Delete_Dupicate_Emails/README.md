@@ -1,14 +1,5 @@
 # Delete Duplicate Emails
 
-**SQL Schema:**
-
-```sql
-Truncate table Person
-insert into Person (Id, Email) values ('1', 'john@example.com')
-insert into Person (Id, Email) values ('2', 'bob@example.com')
-insert into Person (Id, Email) values ('3', 'john@example.com')
-```
-
 Write a SQL query to **delete** all duplicate email entries in a table named `Person`, keeping only unique emails based on its *smallest* **Id**.
 
 ```
@@ -36,3 +27,12 @@ For example, after running your query, the above `Person` table should have the 
 **Note:**
 
 Your output is the whole `Person` table after executing your sql. Use `delete` statement.
+
+**SQL Schema:**
+
+```sql
+Truncate table Person
+insert into Person (Id, Email) values ('1', 'john@example.com')
+insert into Person (Id, Email) values ('2', 'bob@example.com')
+insert into Person (Id, Email) values ('3', 'john@example.com')
+```
