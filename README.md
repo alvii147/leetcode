@@ -1,4 +1,4 @@
-# LeetCode Problems
+# LeetCode Problems & Solutions
 
 <img alt="LeetCode Logo" src="img/leetcode_logo.png" width="400"/>
 
