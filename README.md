@@ -1,5 +1,7 @@
 # LeetCode Problems
 
+<img alt="LeetCode Logo" src="img/leetcode_logo.png" width="400"/>
+
 This repository contains solutions to [LeetCode](https://leetcode.com/) problems.
 
 ## Algorithms
