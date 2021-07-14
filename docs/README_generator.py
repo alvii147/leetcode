@@ -55,7 +55,7 @@ def difficulty_shields_io(difficulty):
 
 if __name__ == '__main__':
     with open('../README.md', 'w') as readme_file:
-        readme_file.write('# LeetCode Problems\n\n')
+        readme_file.write('# LeetCode Problems & Solutions\n\n')
         readme_file.write('<img alt="LeetCode Logo" src="img/leetcode_logo.png" width="400"/>\n\n')
         readme_file.write('This repository contains solutions to [LeetCode](https://leetcode.com/) problems.\n\n')
 
