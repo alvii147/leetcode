@@ -79,6 +79,6 @@ if __name__ == '__main__':
                 difficulty = problem_data.get('difficulty')
                 difficulty_shield = difficulty_shields_io(difficulty)
 
-                readme_file.write(f'{problem_id}. | [{title}]({name}/{problem_dir}) | ![Difficulty]({difficulty_shield})\n')
+                readme_file.write(f'{problem_id} | [{title}]({name}/{problem_dir}) | ![Difficulty]({difficulty_shield})\n')
 
             readme_file.write('\n')
