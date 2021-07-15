@@ -6,5 +6,9 @@
     {
         "name": "Database",
         "logo": "img/database_logo.png"
+    },
+    {
+        "name": "Concurrency",
+        "logo": "img/concurrency_logo.png"
     }
 ]
