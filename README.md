@@ -37,3 +37,11 @@ No. | Problem | Difficulty
 595 | [Big Countries](Database/595_Big_Countries) | ![Difficulty](https://img.shields.io/badge/Easy-green)
 596 | [Classes More Than 5 Students](Database/596_Classes_More_Than_5_Students) | ![Difficulty](https://img.shields.io/badge/Easy-green)
 
+## Concurrency
+
+<img alt="Concurrency Logo" src=img/concurrency_logo.png width="100"/>
+
+No. | Problem | Difficulty
+--- | --- | ---
+1114 | [Print in Order](Concurrency/1114_Print_in_Order) | ![Difficulty](https://img.shields.io/badge/Easy-green)
+
