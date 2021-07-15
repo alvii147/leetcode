@@ -29,7 +29,7 @@ def leetcode_api(category):
     data = {}
     stat_status_pairs = response_json.get('stat_status_pairs')
     for question in stat_status_pairs:
-        question_id = question.get('stat').get('question_id')
+        question_id = question.get('stat').get('frontend_question_id')
         question_title = question.get('stat').get('question__title')
         difficulty = DIFFICULTY_LUT.get(question.get('difficulty').get('level'))
 
