@@ -12,6 +12,8 @@ No. | Problem | Difficulty
 --- | --- | ---
 1 | [Two Sum](Algorithms/1_Two_Sum) | ![Difficulty](https://img.shields.io/badge/Easy-green)
 2 | [Add Two Numbers](Algorithms/2_Add_Two_Numbers) | ![Difficulty](https://img.shields.io/badge/Medium-yellow)
+3 | [Longest Substring Without Repeating Characters](Algorithms/3_Longest_Substring_Without_Repeating_Characters) | ![Difficulty](https://img.shields.io/badge/Medium-yellow)
+4 | [Median of Two Sorted Arrays](Algorithms/4_Median_of_Two_Sorted_Arrays) | ![Difficulty](https://img.shields.io/badge/Hard-red)
 
 ## Database
 
