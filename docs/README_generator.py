@@ -7,15 +7,15 @@ SHIELDS_IO_BADGE_URL = 'https://img.shields.io/badge'
 DIFFICULTY_LUT = {
     1: {
         'name': 'Easy',
-        'color': 'green',
+        'color': 'lawngreen',
     },
     2: {
         'name': 'Medium',
-        'color': 'yellow',
+        'color': 'gold',
     },
     3: {
         'name': 'Hard',
-        'color': 'red',
+        'color': 'orangered',
     },
 }
 CATEGORIES_FILE = 'categories.json'
