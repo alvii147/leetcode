@@ -70,7 +70,9 @@ if __name__ == '__main__':
             readme_file.write('No. | Problem | Difficulty\n')
             readme_file.write('--- | --- | ---\n')
 
-            for problem_dir in os.listdir(f'../{name}/'):
+            listdir = os.listdir(f'../{name}/')
+            listdir = sorted(listdir, key=lambda x: int(x.split('_')[0]))
+            for problem_dir in listdir:
                 problem_id = problem_dir.split('_')[0]
 
                 problem_data = data.get(int(problem_id))
