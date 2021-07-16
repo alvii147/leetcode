@@ -38,6 +38,7 @@ No. | Problem | Difficulty
 596 | [Classes More Than 5 Students](Database/596_Classes_More_Than_5_Students) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 601 | [Human Traffic of Stadium](Database/601_Human_Traffic_of_Stadium) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 620 | [Not Boring Movies](Database/620_Not_Boring_Movies) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+626 | [Exchange Seats](Database/626_Exchange_Seats) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 
 ## Concurrency
 
