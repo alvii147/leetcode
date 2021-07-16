@@ -21,6 +21,7 @@ No. | Problem | Difficulty
 
 No. | Problem | Difficulty
 --- | --- | ---
+1179 | [Reformat Department Table](Database/1179_Reformat_Department_Table) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 175 | [Combine Two Tables](Database/175_Combine_Two_Tables) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 176 | [Second Highest Salary](Database/176_Second_Highest_Salary) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 177 | [Nth Highest Salary](Database/177_Nth_Highest_Salary) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
