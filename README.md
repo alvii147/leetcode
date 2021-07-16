@@ -21,7 +21,6 @@ No. | Problem | Difficulty
 
 No. | Problem | Difficulty
 --- | --- | ---
-1179 | [Reformat Department Table](Database/1179_Reformat_Department_Table) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 175 | [Combine Two Tables](Database/175_Combine_Two_Tables) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 176 | [Second Highest Salary](Database/176_Second_Highest_Salary) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 177 | [Nth Highest Salary](Database/177_Nth_Highest_Salary) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
@@ -41,6 +40,7 @@ No. | Problem | Difficulty
 620 | [Not Boring Movies](Database/620_Not_Boring_Movies) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 626 | [Exchange Seats](Database/626_Exchange_Seats) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 627 | [Swap Salary](Database/627_Swap_Salary) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+1179 | [Reformat Department Table](Database/1179_Reformat_Department_Table) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 
 ## Concurrency
 
