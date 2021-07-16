@@ -36,6 +36,7 @@ No. | Problem | Difficulty
 262 | [Trips and Users](Database/262_Trips_and_Users) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 595 | [Big Countries](Database/595_Big_Countries) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 596 | [Classes More Than 5 Students](Database/596_Classes_More_Than_5_Students) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+601 | [Human Traffic of Stadium](Database/601_Human_Traffic_of_Stadium) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 
 ## Concurrency
 
