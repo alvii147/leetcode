@@ -14,6 +14,7 @@ No. | Problem | Difficulty
 2 | [Add Two Numbers](Algorithms/2_Add_Two_Numbers) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 3 | [Longest Substring Without Repeating Characters](Algorithms/3_Longest_Substring_Without_Repeating_Characters) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 4 | [Median of Two Sorted Arrays](Algorithms/4_Median_of_Two_Sorted_Arrays) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
+5 | [Longest Palindromic Substring](Algorithms/5_Longest_Palindromic_Substring) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 
 ## Database
 
