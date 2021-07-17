@@ -26,11 +26,9 @@ jobs:
         run: cd ./docs/; python README_generator.py
       - name: Configuring git name & email
         run: git config user.name "Zahin Zaman"; git config user.email "alvii147@gmail.com"
-      - name: Staging files
-        run: git add .
-      - name: Committing
-        run: git commit -m "[Github Action Bot] Generated README.md"
-      - name: fetching from master
-        run: git fetch origin master
-      - name: pushing to master
-        run: git push origin master
+      - name: Committing changes
+        run: |
+          git add .
+          git commit -m "[Github Action Bot] Generated README.md" || exit 0
+          git fetch origin master
+          git push
