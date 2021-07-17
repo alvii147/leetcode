@@ -15,6 +15,7 @@ No. | Problem | Difficulty
 3 | [Longest Substring Without Repeating Characters](Algorithms/3_Longest_Substring_Without_Repeating_Characters) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 4 | [Median of Two Sorted Arrays](Algorithms/4_Median_of_Two_Sorted_Arrays) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 5 | [Longest Palindromic Substring](Algorithms/5_Longest_Palindromic_Substring) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
+6 | [ZigZag Conversion](Algorithms/6_ZigZag_Conversion) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 
 ## Database
 
