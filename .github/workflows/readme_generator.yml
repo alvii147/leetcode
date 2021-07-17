@@ -29,7 +29,7 @@ jobs:
       - name: Staging files
         run: git add .
       - name: Committing
-        run: git commit -m "BOT - updated README.md"
+        run: git commit -m "[Github Action Bot] Generated README.md"
       - name: fetching from master
         run: git fetch origin master
       - name: pushing to master
