@@ -17,6 +17,7 @@ No. | Problem | Difficulty
 5 | [Longest Palindromic Substring](Algorithms/5_Longest_Palindromic_Substring) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 6 | [ZigZag Conversion](Algorithms/6_ZigZag_Conversion) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 7 | [Reverse Integer](Algorithms/7_Reverse_Integer) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+8 | [String to Integer (atoi)](Algorithms/8_String_to_Integer) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 
 ## Database
 
