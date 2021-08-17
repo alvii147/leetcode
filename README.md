@@ -8,6 +8,10 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=img/algorithms_logo.png width="100"/>
 
+Completed **12** out of **1508** (unpaid) problems
+
+![Progress Bar](https://progress-bar.dev/1)
+
 No. | Problem | Difficulty
 --- | --- | ---
 1 | [Two Sum](Algorithms/1_Two_Sum) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
@@ -26,6 +30,10 @@ No. | Problem | Difficulty
 ## Database
 
 <img alt="Database Logo" src=img/database_logo.png width="100"/>
+
+Completed **20** out of **20** (unpaid) problems
+
+![Progress Bar](https://progress-bar.dev/100)
 
 No. | Problem | Difficulty
 --- | --- | ---
@@ -53,6 +61,10 @@ No. | Problem | Difficulty
 ## Concurrency
 
 <img alt="Concurrency Logo" src=img/concurrency_logo.png width="100"/>
+
+Completed **3** out of **6** (unpaid) problems
+
+![Progress Bar](https://progress-bar.dev/50)
 
 No. | Problem | Difficulty
 --- | --- | ---
