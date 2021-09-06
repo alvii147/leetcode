@@ -8,7 +8,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=img/algorithms_logo.png width="100"/>
 
-Completed **12** out of **1508** (unpaid) problems
+Completed **13** out of **1528** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.dev/1)
 
@@ -26,6 +26,7 @@ No. | Problem | Difficulty
 10 | [Regular Expression Matching](Algorithms/10_Regular_Expression_Matching) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 11 | [Container With Most Water](Algorithms/11_Container_With_Most_Water) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 12 | [Integer to Roman](Algorithms/12_Integer_to_Roman) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
+25 | [Reverse Nodes in k-Group](Algorithms/25_Reverse_Nodes_in_k-Group) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 
 ## Database
 
