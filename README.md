@@ -8,7 +8,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=img/algorithms_logo.png width="100"/>
 
-Completed **13** out of **1528** (unpaid) problems
+Completed **14** out of **1540** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.dev/1)
 
@@ -26,6 +26,7 @@ No. | Problem | Difficulty
 10 | [Regular Expression Matching](Algorithms/10_Regular_Expression_Matching) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 11 | [Container With Most Water](Algorithms/11_Container_With_Most_Water) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 12 | [Integer to Roman](Algorithms/12_Integer_to_Roman) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
+23 | [Merge k Sorted Lists](Algorithms/23_Merge_k_Sorted_Lists) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 25 | [Reverse Nodes in k-Group](Algorithms/25_Reverse_Nodes_in_k-Group) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 
 ## Database
@@ -39,7 +40,7 @@ Completed **20** out of **20** (unpaid) problems
 No. | Problem | Difficulty
 --- | --- | ---
 175 | [Combine Two Tables](Database/175_Combine_Two_Tables) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
-176 | [Second Highest Salary](Database/176_Second_Highest_Salary) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+176 | [Second Highest Salary](Database/176_Second_Highest_Salary) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 177 | [Nth Highest Salary](Database/177_Nth_Highest_Salary) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 178 | [Rank Scores](Database/178_Rank_Scores) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 180 | [Consecutive Numbers](Database/180_Consecutive_Numbers) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
