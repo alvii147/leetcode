@@ -8,7 +8,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=img/algorithms_logo.png width="100"/>
 
-Completed **14** out of **1540** (unpaid) problems
+Completed **14** out of **1660** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.dev/1)
 
@@ -19,8 +19,8 @@ No. | Problem | Difficulty
 3 | [Longest Substring Without Repeating Characters](Algorithms/3_Longest_Substring_Without_Repeating_Characters) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 4 | [Median of Two Sorted Arrays](Algorithms/4_Median_of_Two_Sorted_Arrays) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 5 | [Longest Palindromic Substring](Algorithms/5_Longest_Palindromic_Substring) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
-6 | [ZigZag Conversion](Algorithms/6_ZigZag_Conversion) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
-7 | [Reverse Integer](Algorithms/7_Reverse_Integer) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+6 | [Zigzag Conversion](Algorithms/6_ZigZag_Conversion) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
+7 | [Reverse Integer](Algorithms/7_Reverse_Integer) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 8 | [String to Integer (atoi)](Algorithms/8_String_to_Integer) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 9 | [Palindrome Number](Algorithms/9_Palindrome_Number) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 10 | [Regular Expression Matching](Algorithms/10_Regular_Expression_Matching) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
