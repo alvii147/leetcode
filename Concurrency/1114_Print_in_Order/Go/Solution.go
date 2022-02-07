@@ -8,62 +8,69 @@ import (
 // function type for passing function to methods
 type printerFunc func()
 
-// Foo struct with mutexes
+// Foo struct
 type Foo struct {
-	mtx1 *sync.Mutex
-	mtx2 *sync.Mutex
+	Wg   *sync.WaitGroup
+	Mtx1 *sync.Mutex
+	Mtx2 *sync.Mutex
 }
 
 // init method to lock all mutexes
-func (foo *Foo) Init() {
-	foo.mtx1.Lock()
-	foo.mtx2.Lock()
+func (f *Foo) Init() {
+	f.Mtx1.Lock()
+	f.Mtx2.Lock()
 }
 
-func (foo *Foo) First(printFirst printerFunc) {
+func (f *Foo) First(printFirst printerFunc) {
+	// signal end of goroutine execution
+	defer f.Wg.Done()
 	// execute first print function
 	printFirst()
 	// unlock mutex 1
-	foo.mtx1.Unlock()
+	f.Mtx1.Unlock()
 }
 
-func (foo *Foo) Second(printSecond printerFunc) {
+func (f *Foo) Second(printSecond printerFunc) {
+	// signal end of goroutine execution
+	defer f.Wg.Done()
 	// wait until mutex 1 is unlocked, then lock it
-	foo.mtx1.Lock()
+	f.Mtx1.Lock()
 	// execute second print function
 	printSecond()
 	// unlock mutex 2
-	foo.mtx2.Unlock()
+	f.Mtx2.Unlock()
 }
 
-func (foo *Foo) Third(printThird printerFunc) {
+func (f *Foo) Third(printThird printerFunc) {
+	// signal end of goroutine execution
+	defer f.Wg.Done()
 	// wait until mutex 2 is unlocked, then lock it
-	foo.mtx2.Lock()
+	f.Mtx2.Lock()
 	// execute third print function
 	printThird()
 }
 
 // clean method to unlock all mutexes
-func (foo *Foo) Clean() {
-	foo.mtx1.Unlock()
-	foo.mtx2.Unlock()
+func (f *Foo) Clean() {
+	f.Mtx1.Unlock()
+	f.Mtx2.Unlock()
 }
 
 func main() {
+	// create wait group
+	wg := sync.WaitGroup{}
+	// setup wait group for 3 goroutines
+	wg.Add(3)
 	// create mutexes
 	mtx1 := sync.Mutex{}
 	mtx2 := sync.Mutex{}
 
 	// create Foo struct
 	foo := Foo{
-		mtx1: &mtx1,
-		mtx2: &mtx2,
+		Wg:   &wg,
+		Mtx1: &mtx1,
+		Mtx2: &mtx2,
 	}
-
-	// create wait group
-	wg := sync.WaitGroup{}
-	// setup wait group for 3 goroutines
-	wg.Add(3)
 
 	// initiate mutexes
 	foo.Init()
@@ -72,8 +79,6 @@ func main() {
 	go foo.First(
 		func() {
 			fmt.Println("first")
-			// signal end of goroutine execution
-			defer wg.Done()
 		},
 	)
 
@@ -81,8 +86,6 @@ func main() {
 	go foo.Second(
 		func() {
 			fmt.Println("second")
-			// signal end of goroutine execution
-			defer wg.Done()
 		},
 	)
 
@@ -90,8 +93,6 @@ func main() {
 	go foo.Third(
 		func() {
 			fmt.Println("third")
-			// signal end of goroutine execution
-			defer wg.Done()
 		},
 	)
 
