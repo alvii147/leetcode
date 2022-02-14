@@ -10,7 +10,9 @@ type ReleaseFunc func()
 
 type H2O struct {
 	// hydrogen molecule count
-	H2Count int
+	HydrogenCount int
+	// oxygen molecule count
+	OxygenCount int
 	// mutex for r/w synchronization of hydrogen molecule count
 	Mtx *sync.Mutex
 }
@@ -20,9 +22,24 @@ func (h2o *H2O) Init() {
 	// lock mutex
 	h2o.Mtx.Lock()
 	// initialize hydrogen count to zero
-	h2o.H2Count = 0
+	h2o.HydrogenCount = 0
+	// initialize oxygen count to zero
+	h2o.OxygenCount = 0
 	// unlock mutex
 	h2o.Mtx.Unlock()
+
+	go h2o.Bond()
+}
+
+func (h2o *H2O) Bond() {
+	for {
+		h2o.Mtx.Lock()
+		if h2o.HydrogenCount == 2 && h2o.OxygenCount == 1 {
+			h2o.HydrogenCount = 0
+			h2o.OxygenCount = 0
+		}
+		h2o.Mtx.Unlock()
+	}
 }
 
 // hydrogen molecule function
@@ -33,9 +50,9 @@ func (h2o *H2O) Hydrogen(releaseHydrogen ReleaseFunc) {
 	for !exitLoop {
 		// lock mutex
 		h2o.Mtx.Lock()
-		if h2o.H2Count < 2 {
+		if h2o.HydrogenCount < 2 {
 			// increment hydrogen count if space available
-			h2o.H2Count++
+			h2o.HydrogenCount++
 			// release hydrogen molecule
 			releaseHydrogen()
 			// exit loop
@@ -54,9 +71,9 @@ func (h2o *H2O) Oxygen(releaseOxygen ReleaseFunc) {
 	for !exitLoop {
 		// lock mutex
 		h2o.Mtx.Lock()
-		if h2o.H2Count >= 2 {
-			// reset hydrogen count if water can be formed
-			h2o.H2Count = 0
+		if h2o.OxygenCount < 1 {
+			// increment oxygen count if space available
+			h2o.OxygenCount++
 			// release oxygen molecule
 			releaseOxygen()
 			// exit loop
@@ -69,7 +86,7 @@ func (h2o *H2O) Oxygen(releaseOxygen ReleaseFunc) {
 
 func main() {
 	// input test string
-	input := "OOOOHHHHHHHH"
+	input := "OOHHHOHOOHHHHHHHHHOOHHHHHOOOHHOHH"
 	// mutex for r/w synchronization of hydrogen molecule count
 	mtx := sync.Mutex{}
 	// create wait group for goroutine synchronization
