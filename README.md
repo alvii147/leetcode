@@ -64,13 +64,14 @@ No. | Problem | Difficulty
 
 <img alt="Concurrency Logo" src=img/concurrency_logo.png width="100"/>
 
-Completed **3** out of **6** (unpaid) problems
+Completed **4** out of **6** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/50)
+![Progress Bar](https://progress-bar.dev/67)
 
 No. | Problem | Difficulty
 --- | --- | ---
 1114 | [Print in Order](Concurrency/1114_Print_in_Order) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 1115 | [Print FooBar Alternately](Concurrency/1115_Print_FooBar_Alternately) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 1116 | [Print Zero Even Odd](Concurrency/1116_Print_Zero_Even_Odd) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
+1117 | [Building H2O](Concurrency/1117_Building_H2O) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 
