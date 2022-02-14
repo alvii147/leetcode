@@ -13,7 +13,7 @@ type H2O struct {
 	HydrogenCount int
 	// oxygen molecule count
 	OxygenCount int
-	// mutex for r/w synchronization of hydrogen molecule count
+	// mutex for r/w synchronization of hydrogen/oxygen counts
 	Mtx *sync.Mutex
 }
 
@@ -31,6 +31,7 @@ func (h2o *H2O) Init() {
 	go h2o.Bond()
 }
 
+// bond hydrogen & oxygen molecules if possible
 func (h2o *H2O) Bond() {
 	for {
 		h2o.Mtx.Lock()
