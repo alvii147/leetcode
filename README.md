@@ -8,7 +8,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=img/algorithms_logo.png width="100"/>
 
-Completed **14** out of **1664** (unpaid) problems
+Completed **14** out of **1672** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.dev/1)
 
@@ -64,9 +64,9 @@ No. | Problem | Difficulty
 
 <img alt="Concurrency Logo" src=img/concurrency_logo.png width="100"/>
 
-Completed **4** out of **6** (unpaid) problems
+Completed **5** out of **6** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/67)
+![Progress Bar](https://progress-bar.dev/83)
 
 No. | Problem | Difficulty
 --- | --- | ---
@@ -74,4 +74,5 @@ No. | Problem | Difficulty
 1115 | [Print FooBar Alternately](Concurrency/1115_Print_FooBar_Alternately) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 1116 | [Print Zero Even Odd](Concurrency/1116_Print_Zero_Even_Odd) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 1117 | [Building H2O](Concurrency/1117_Building_H2O) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
+1195 | [Fizz Buzz Multithreaded](Concurrency/1195_Fizz_Buzz_Multithreaded) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 
