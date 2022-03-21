@@ -8,7 +8,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=img/algorithms_logo.png width="100"/>
 
-Completed **14** out of **1672** (unpaid) problems
+Completed **14** out of **1696** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.dev/1)
 
