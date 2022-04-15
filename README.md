@@ -8,7 +8,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=img/algorithms_logo.png width="100"/>
 
-Completed **14** out of **1696** (unpaid) problems
+Completed **15** out of **1714** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.dev/1)
 
@@ -26,6 +26,7 @@ No. | Problem | Difficulty
 10 | [Regular Expression Matching](Algorithms/10_Regular_Expression_Matching) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 11 | [Container With Most Water](Algorithms/11_Container_With_Most_Water) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 12 | [Integer to Roman](Algorithms/12_Integer_to_Roman) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
+13 | [Roman to Integer](Algorithms/13_Roman_to_Integer) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 23 | [Merge k Sorted Lists](Algorithms/23_Merge_k_Sorted_Lists) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 25 | [Reverse Nodes in k-Group](Algorithms/25_Reverse_Nodes_in_k-Group) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 
@@ -33,9 +34,9 @@ No. | Problem | Difficulty
 
 <img alt="Database Logo" src=img/database_logo.png width="100"/>
 
-Completed **20** out of **20** (unpaid) problems
+Completed **20** out of **45** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/100)
+![Progress Bar](https://progress-bar.dev/44)
 
 No. | Problem | Difficulty
 --- | --- | ---
