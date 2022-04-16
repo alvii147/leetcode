@@ -6,7 +6,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 ## Algorithms
 
-<img alt="Algorithms Logo" src=img/algorithms_logo.png width="100"/>
+<img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
 Completed **17** out of **1714** (unpaid) problems
 
@@ -34,7 +34,7 @@ No. | Problem | Difficulty
 
 ## Database
 
-<img alt="Database Logo" src=img/database_logo.png width="100"/>
+<img alt="Database Logo" src=docs/img/database_logo.png width="100"/>
 
 Completed **20** out of **45** (unpaid) problems
 
@@ -63,9 +63,21 @@ No. | Problem | Difficulty
 627 | [Swap Salary](Database/627_Swap_Salary) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 1179 | [Reformat Department Table](Database/1179_Reformat_Department_Table) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 
+## Shell
+
+<img alt="Shell Logo" src=docs/img/shell_logo.png width="100"/>
+
+Completed **1** out of **4** (unpaid) problems
+
+![Progress Bar](https://progress-bar.dev/25)
+
+No. | Problem | Difficulty
+--- | --- | ---
+193 | [Valid Phone Numbers](Shell/193_Valid_Phone_Numbers) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+
 ## Concurrency
 
-<img alt="Concurrency Logo" src=img/concurrency_logo.png width="100"/>
+<img alt="Concurrency Logo" src=docs/img/concurrency_logo.png width="100"/>
 
 Completed **6** out of **6** (unpaid) problems
 
