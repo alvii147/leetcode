@@ -36,9 +36,9 @@ No. | Problem | Difficulty
 
 <img alt="Database Logo" src=docs/img/database_logo.png width="100"/>
 
-Completed **24** out of **45** (unpaid) problems
+Completed **25** out of **45** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/53)
+![Progress Bar](https://progress-bar.dev/56)
 
 No. | Problem | Difficulty
 --- | --- | ---
@@ -62,6 +62,7 @@ No. | Problem | Difficulty
 596 | [Classes More Than 5 Students](Database/596_Classes_More_Than_5_Students) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 601 | [Human Traffic of Stadium](Database/601_Human_Traffic_of_Stadium) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 607 | [Sales Person](Database/607_Sales_Person) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+608 | [Tree Node](Database/608_Tree_Node) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 620 | [Not Boring Movies](Database/620_Not_Boring_Movies) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 626 | [Exchange Seats](Database/626_Exchange_Seats) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 627 | [Swap Salary](Database/627_Swap_Salary) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
