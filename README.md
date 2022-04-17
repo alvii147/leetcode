@@ -8,7 +8,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **17** out of **1714** (unpaid) problems
+Completed **17** out of **1722** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.dev/1)
 
@@ -36,9 +36,9 @@ No. | Problem | Difficulty
 
 <img alt="Database Logo" src=docs/img/database_logo.png width="100"/>
 
-Completed **20** out of **45** (unpaid) problems
+Completed **24** out of **45** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/44)
+![Progress Bar](https://progress-bar.dev/53)
 
 No. | Problem | Difficulty
 --- | --- | ---
@@ -55,9 +55,13 @@ No. | Problem | Difficulty
 196 | [Delete Duplicate Emails](Database/196_Delete_Dupicate_Emails) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 197 | [Rising Temperature](Database/197_Rising_Temperature) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 262 | [Trips and Users](Database/262_Trips_and_Users) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
+511 | [Game Play Analysis I](Database/511_Game_Play_Analysis_I) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+584 | [Find Customer Referee](Database/584_Find_Customer_Referee) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+586 | [Customer Placing the Largest Number of Orders](Database/586_Customer_Placing_the_Largest_Number_of_Orders) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 595 | [Big Countries](Database/595_Big_Countries) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 596 | [Classes More Than 5 Students](Database/596_Classes_More_Than_5_Students) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 601 | [Human Traffic of Stadium](Database/601_Human_Traffic_of_Stadium) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
+607 | [Sales Person](Database/607_Sales_Person) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 620 | [Not Boring Movies](Database/620_Not_Boring_Movies) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 626 | [Exchange Seats](Database/626_Exchange_Seats) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 627 | [Swap Salary](Database/627_Swap_Salary) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
