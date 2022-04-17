@@ -98,6 +98,8 @@ Explanation:
 According to orders 3 and 4 in the Orders table, it is easy to tell that only salesperson John and Pam have sales to company RED, so we report all the other names in the table salesperson.
 ```
 
+**SQL Schema:**
+
 ```sql
 Create table If Not Exists SalesPerson (sales_id int, name varchar(255), salary int, commission_rate int, hire_date date)
 Create table If Not Exists Company (com_id int, name varchar(255), city varchar(255))
