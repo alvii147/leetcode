@@ -36,9 +36,9 @@ No. | Problem | Difficulty
 
 <img alt="Database Logo" src=docs/img/database_logo.png width="100"/>
 
-Completed **25** out of **45** (unpaid) problems
+Completed **26** out of **45** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/56)
+![Progress Bar](https://progress-bar.dev/58)
 
 No. | Problem | Difficulty
 --- | --- | ---
@@ -66,6 +66,7 @@ No. | Problem | Difficulty
 620 | [Not Boring Movies](Database/620_Not_Boring_Movies) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 626 | [Exchange Seats](Database/626_Exchange_Seats) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 627 | [Swap Salary](Database/627_Swap_Salary) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+1050 | [Actors and Directors Who Cooperated At Least Three Times](Database/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 1179 | [Reformat Department Table](Database/1179_Reformat_Department_Table) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 
 ## Shell
