@@ -8,7 +8,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **17** out of **1722** (unpaid) problems
+Completed **18** out of **1722** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.dev/1)
 
@@ -29,6 +29,7 @@ No. | Problem | Difficulty
 13 | [Roman to Integer](Algorithms/13_Roman_to_Integer) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 14 | [Longest Common Prefix](Algorithms/14_Longest_Common_Prefix) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 15 | [3Sum](Algorithms/15_3Sum) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
+16 | [3Sum Closest](Algorithms/16_3Sum_Closest) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 23 | [Merge k Sorted Lists](Algorithms/23_Merge_k_Sorted_Lists) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 25 | [Reverse Nodes in k-Group](Algorithms/25_Reverse_Nodes_in_k-Group) | ![Difficulty](https://img.shields.io/badge/Hard-orangered)
 
