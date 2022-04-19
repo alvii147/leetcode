@@ -78,12 +78,13 @@ No. | Problem | Difficulty
 
 <img alt="Shell Logo" src=docs/img/shell_logo.png width="100"/>
 
-Completed **1** out of **4** (unpaid) problems
+Completed **2** out of **4** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/25)
+![Progress Bar](https://progress-bar.dev/50)
 
 No. | Problem | Difficulty
 --- | --- | ---
+192 | [Word Frequency](Shell/192_Word_Frequency) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 193 | [Valid Phone Numbers](Shell/193_Valid_Phone_Numbers) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 
 ## Concurrency
