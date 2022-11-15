@@ -38,9 +38,9 @@ No. | Problem | Difficulty
 
 <img alt="Database Logo" src=docs/img/database_logo.png width="100"/>
 
-Completed **31** out of **45** (unpaid) problems
+Completed **33** out of **45** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/69)
+![Progress Bar](https://progress-bar.dev/73)
 
 No. | Problem | Difficulty
 --- | --- | ---
@@ -75,6 +75,8 @@ No. | Problem | Difficulty
 1179 | [Reformat Department Table](Database/1179_Reformat_Department_Table) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 1393 | [Capital Gain/Loss](Database/1393_Capital_Gain_Loss) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
 1407 | [Top Travellers](Database/1407_Top_Travellers) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+1484 | [Group Sold Products By The Date](Database/1484_Group_Sold_Products_By_The_Date) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+1527 | [Patients With a Condition](Database/1527_Patients_With_a_Condition) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 
 ## Shell
 
