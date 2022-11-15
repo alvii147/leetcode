@@ -8,7 +8,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **19** out of **1722** (unpaid) problems
+Completed **19** out of **1902** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.dev/1)
 
@@ -38,9 +38,9 @@ No. | Problem | Difficulty
 
 <img alt="Database Logo" src=docs/img/database_logo.png width="100"/>
 
-Completed **29** out of **45** (unpaid) problems
+Completed **31** out of **45** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/64)
+![Progress Bar](https://progress-bar.dev/69)
 
 No. | Problem | Difficulty
 --- | --- | ---
@@ -73,6 +73,8 @@ No. | Problem | Difficulty
 1141 | [User Activity for the Past 30 Days I](Database/1141_User_Activity_for_the_Past_30_Days_I) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 1148 | [Article Views I](Database/1148_Article_Views_I) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 1179 | [Reformat Department Table](Database/1179_Reformat_Department_Table) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
+1393 | [Capital Gain/Loss](Database/1393_Capital_Gain_Loss) | ![Difficulty](https://img.shields.io/badge/Medium-gold)
+1407 | [Top Travellers](Database/1407_Top_Travellers) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen)
 
 ## Shell
 
