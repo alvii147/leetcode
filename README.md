@@ -38,9 +38,9 @@ No. | Problem | Difficulty | Languages
 
 <img alt="Database Logo" src=docs/img/database_logo.png width="100"/>
 
-Completed **33** out of **45** (unpaid) problems
+Completed **36** out of **45** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/73)
+![Progress Bar](https://progress-bar.dev/80)
 
 No. | Problem | Difficulty | Languages
 --- | --- | --- | ---
@@ -77,6 +77,9 @@ No. | Problem | Difficulty | Languages
 1407 | [Top Travellers](Database/1407_Top_Travellers) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
 1484 | [Group Sold Products By The Date](Database/1484_Group_Sold_Products_By_The_Date) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
 1527 | [Patients With a Condition](Database/1527_Patients_With_a_Condition) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
+1581 | [Customer Who Visited but Did Not Make Any Transactions](Database/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
+1587 | [Bank Account Summary II](Database/1587_Bank_Account_Summary_II) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
+1667 | [Fix Names in a Table](Database/1667_Fix_Names_in_a_Table) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
 
 ## Shell
 
