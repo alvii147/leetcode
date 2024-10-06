@@ -10,7 +10,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 Completed **19** out of **2496** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/1)
+![Progress Bar](https://progress-bar.xyz/1)
 
 No. | Problem | Difficulty | Languages
 --- | --- | --- | ---
@@ -40,7 +40,7 @@ No. | Problem | Difficulty | Languages
 
 Completed **36** out of **78** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/46)
+![Progress Bar](https://progress-bar.xyz/46)
 
 No. | Problem | Difficulty | Languages
 --- | --- | --- | ---
@@ -87,7 +87,7 @@ No. | Problem | Difficulty | Languages
 
 Completed **2** out of **4** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/50)
+![Progress Bar](https://progress-bar.xyz/50)
 
 No. | Problem | Difficulty | Languages
 --- | --- | --- | ---
@@ -100,7 +100,7 @@ No. | Problem | Difficulty | Languages
 
 Completed **6** out of **6** (unpaid) problems
 
-![Progress Bar](https://progress-bar.dev/100)
+![Progress Bar](https://progress-bar.xyz/100)
 
 No. | Problem | Difficulty | Languages
 --- | --- | --- | ---
