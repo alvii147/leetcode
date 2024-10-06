@@ -73,7 +73,7 @@ if __name__ == '__main__':
             listdir = os.listdir(f'../{category_name}/')
             listdir = sorted(listdir, key=lambda x: int(x.split('_')[0]))
 
-            progress_bar = 'https://progress-bar.dev/' + str(round((len(listdir) / free_count) * 100))
+            progress_bar = 'https://progress-bar.xyz/' + str(round((len(listdir) / free_count) * 100))
 
             readme_file.write(f'## {category_name}\n\n')
             readme_file.write(f'<img alt="{category_name} Logo" src={category_logo} width="100"/>\n\n')
