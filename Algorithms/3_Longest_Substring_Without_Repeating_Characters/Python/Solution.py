@@ -1,31 +1,36 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        # left & right iterators
-        i = 0
-        j = 0
-        # dictionary to store substring 
-        char_hash = {}
-        # length of longest substring
-        max_len = 0
+        # dictionary that maps character to its index in string
+        char_indices = {}
+        # index of starting character of current substring
+        substr_start_idx = 0
+        # length of current substring
+        substr_len = 0
+        # maximum length of substrings seen so far
+        max_substr_len = 0
 
-        while j < len(s):
-            # if new character is already in hash
-            if s[j] in char_hash:
-                # delete characters from hash
-                k = char_hash[s[j]] + 1
-                for l in s[i:k]:
-                    del char_hash[l]
+        for i, c in enumerate(s):
+            # check if current character has appeared before
+            # set -1 has default so we skip the if condition that follows
+            repeated_char_idx = char_indices.get(c, -1)
+            if repeated_char_idx >= substr_start_idx:
+                # update maximum length so far
+                max_substr_len = max(max_substr_len, substr_len)
+                # new substring should start from index after previously repeated character
+                substr_start_idx = repeated_char_idx + 1
+                # new length spans from character after previously repeated character to current character
+                substr_len = i - repeated_char_idx
+                # store character and index in dictionary
+                char_indices[c] = i
+                continue
 
-                # move left iterator
-                i = k
+            # increment substring length
+            substr_len += 1
+            # store character and index in dictionary
+            char_indices[c] = i
 
-            # add new character to hash
-            char_hash[s[j]] = j
-            # increment right iterator
-            j += 1
+        # update maximum length one last time
+        # needed in case final substring did not encounter repeated character
+        max_substr_len = max(max_substr_len, substr_len)
 
-            # check if current substring is longer than previous maximum
-            if max_len < j - i:
-                max_len = j - i
-
-        return max_len
+        return max_substr_len
