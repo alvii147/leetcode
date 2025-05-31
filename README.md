@@ -8,7 +8,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **19** out of **2496** (unpaid) problems
+Completed **20** out of **2696** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/1)
 
@@ -33,14 +33,15 @@ No. | Problem | Difficulty | Languages
 17 | [Letter Combinations of a Phone Number](Algorithms/17_Letter_Combinations_of_a_Phone_Number) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 23 | [Merge k Sorted Lists](Algorithms/23_Merge_k_Sorted_Lists) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 25 | [Reverse Nodes in k-Group](Algorithms/25_Reverse_Nodes_in_k-Group) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+128 | [Longest Consecutive Sequence](Algorithms/128_Longest_Consecutive_Sequence) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 
 ## Database
 
 <img alt="Database Logo" src=docs/img/database_logo.png width="100"/>
 
-Completed **36** out of **78** (unpaid) problems
+Completed **36** out of **89** (unpaid) problems
 
-![Progress Bar](https://progress-bar.xyz/46)
+![Progress Bar](https://progress-bar.xyz/40)
 
 No. | Problem | Difficulty | Languages
 --- | --- | --- | ---
@@ -61,7 +62,7 @@ No. | Problem | Difficulty | Languages
 584 | [Find Customer Referee](Database/584_Find_Customer_Referee) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
 586 | [Customer Placing the Largest Number of Orders](Database/586_Customer_Placing_the_Largest_Number_of_Orders) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
 595 | [Big Countries](Database/595_Big_Countries) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
-596 | [Classes More Than 5 Students](Database/596_Classes_More_Than_5_Students) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
+596 | [Classes With at Least 5 Students](Database/596_Classes_More_Than_5_Students) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
 601 | [Human Traffic of Stadium](Database/601_Human_Traffic_of_Stadium) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
 607 | [Sales Person](Database/607_Sales_Person) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
 608 | [Tree Node](Database/608_Tree_Node) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111)
@@ -104,10 +105,10 @@ Completed **6** out of **6** (unpaid) problems
 
 No. | Problem | Difficulty | Languages
 --- | --- | --- | ---
-1114 | [Print in Order](Concurrency/1114_Print_in_Order) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54) ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
-1115 | [Print FooBar Alternately](Concurrency/1115_Print_FooBar_Alternately) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54) ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
-1116 | [Print Zero Even Odd](Concurrency/1116_Print_Zero_Even_Odd) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54) ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
-1117 | [Building H2O](Concurrency/1117_Building_H2O) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54) ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
-1195 | [Fizz Buzz Multithreaded](Concurrency/1195_Fizz_Buzz_Multithreaded) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54) ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
-1226 | [The Dining Philosophers](Concurrency/1226_The_Dining_Philosophers) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54) ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
+1114 | [Print in Order](Concurrency/1114_Print_in_Order) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+1115 | [Print FooBar Alternately](Concurrency/1115_Print_FooBar_Alternately) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+1116 | [Print Zero Even Odd](Concurrency/1116_Print_Zero_Even_Odd) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+1117 | [Building H2O](Concurrency/1117_Building_H2O) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+1195 | [Fizz Buzz Multithreaded](Concurrency/1195_Fizz_Buzz_Multithreaded) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+1226 | [The Dining Philosophers](Concurrency/1226_The_Dining_Philosophers) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 
