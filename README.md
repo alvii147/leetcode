@@ -41,7 +41,7 @@ No. | Problem | Difficulty | Languages
 
 <img alt="Database Logo" src=docs/img/database_logo.png width="100"/>
 
-Completed **36** out of **89** (unpaid) problems
+Completed **36** out of **90** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/40)
 
