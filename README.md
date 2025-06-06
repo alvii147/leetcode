@@ -8,7 +8,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **26** out of **2700** (unpaid) problems
+Completed **27** out of **2700** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/1)
 
@@ -40,6 +40,7 @@ No. | Problem | Difficulty | Languages
 133 | [Clone Graph](Algorithms/133_Clone_Graph) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 224 | [Basic Calculator](Algorithms/224_Basic_Calculator) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 647 | [Palindromic Substrings](Algorithms/647_Palindrome_Substrings) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+697 | [Degree of an Array](Algorithms/697_Degree_of_an_Array) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 
 ## Database
 
