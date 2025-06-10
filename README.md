@@ -8,7 +8,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **32** out of **2708** (unpaid) problems
+Completed **33** out of **2708** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/1)
 
@@ -41,6 +41,7 @@ No. | Problem | Difficulty | Languages
 139 | [Word Break](Algorithms/139_Word_Break) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 141 | [Linked List Cycle](Algorithms/141_Linked_List_Cycle) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 224 | [Basic Calculator](Algorithms/224_Basic_Calculator) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+268 | [Missing Number](Algorithms/268_Missing_Number) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 438 | [Find All Anagrams in a String](Algorithms/438_Find_All_Anagrams_in_a_String) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 525 | [Contiguous Array](Algorithms/525_Contiguous_Array) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 647 | [Palindromic Substrings](Algorithms/647_Palindrome_Substrings) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
@@ -117,10 +118,10 @@ Completed **6** out of **6** (unpaid) problems
 
 No. | Problem | Difficulty | Languages
 --- | --- | --- | ---
-1114 | [Print in Order](Concurrency/1114_Print_in_Order) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
-1115 | [Print FooBar Alternately](Concurrency/1115_Print_FooBar_Alternately) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
-1116 | [Print Zero Even Odd](Concurrency/1116_Print_Zero_Even_Odd) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
-1117 | [Building H2O](Concurrency/1117_Building_H2O) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
-1195 | [Fizz Buzz Multithreaded](Concurrency/1195_Fizz_Buzz_Multithreaded) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
-1226 | [The Dining Philosophers](Concurrency/1226_The_Dining_Philosophers) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+1114 | [Print in Order](Concurrency/1114_Print_in_Order) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54) ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
+1115 | [Print FooBar Alternately](Concurrency/1115_Print_FooBar_Alternately) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54) ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
+1116 | [Print Zero Even Odd](Concurrency/1116_Print_Zero_Even_Odd) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54) ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
+1117 | [Building H2O](Concurrency/1117_Building_H2O) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54) ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
+1195 | [Fizz Buzz Multithreaded](Concurrency/1195_Fizz_Buzz_Multithreaded) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54) ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
+1226 | [The Dining Philosophers](Concurrency/1226_The_Dining_Philosophers) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54) ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
 
