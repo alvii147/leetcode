@@ -47,7 +47,7 @@ No. | Problem | Difficulty | Languages
 647 | [Palindromic Substrings](Algorithms/647_Palindrome_Substrings) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 697 | [Degree of an Array](Algorithms/697_Degree_of_an_Array) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 1391 | [Check if There is a Valid Path in a Grid](Algorithms/1391_Check_if_There_is_a_Valid_Path_in_a_Grid) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
-2270 | [Number of Ways to Split Array](Algorithms/2270_Number_of_Ways_to_Split_Array) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | 
+2270 | [Number of Ways to Split Array](Algorithms/2270_Number_of_Ways_to_Split_Array) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 
 ## Database
 
