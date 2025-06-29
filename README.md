@@ -8,7 +8,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **37** out of **2720** (unpaid) problems
+Completed **38** out of **2724** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/1)
 
@@ -33,6 +33,7 @@ No. | Problem | Difficulty | Languages
 17 | [Letter Combinations of a Phone Number](Algorithms/17_Letter_Combinations_of_a_Phone_Number) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 19 | [Remove Nth Node From End of List](Algorithms/19_Remove_Nth_Node_From_End_of_List) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 20 | [Valid Parentheses](Algorithms/20_Valid_Parentheses) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+21 | [Merge Two Sorted Lists](Algorithms/21_Merge_Two_Sorted_Lists) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 23 | [Merge k Sorted Lists](Algorithms/23_Merge_k_Sorted_Lists) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 25 | [Reverse Nodes in k-Group](Algorithms/25_Reverse_Nodes_in_k-Group) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 54 | [Spiral Matrix](Algorithms/54_Spiral_Matrix) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
