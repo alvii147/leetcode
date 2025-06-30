@@ -66,6 +66,7 @@ if __name__ == '__main__':
         readme_file.write('# LeetCode Problems & Solutions\n\n')
         readme_file.write('<img alt="LeetCode Logo" src="docs/img/leetcode_logo.png" width="400"/>\n\n')
         readme_file.write('This repository contains solutions to [LeetCode](https://leetcode.com/) problems.\n\n')
+        readme_file.write('![LeetCode Stats](https://leetcard.jacoblin.cool/alvii147?theme=nord&font=Capriola)\n\n')
 
         for category_name, category_logo in CATEGORY_LOGOS.items():
             data, free_count = leetcode_api(category_name)
