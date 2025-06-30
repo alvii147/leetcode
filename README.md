@@ -4,6 +4,8 @@
 
 This repository contains solutions to [LeetCode](https://leetcode.com/) problems.
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/alvii147?theme=nord&font=Capriola)
+
 ## Algorithms
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
