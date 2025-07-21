@@ -10,7 +10,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **40** out of **2724** (unpaid) problems
+Completed **41** out of **2744** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/1)
 
@@ -38,6 +38,7 @@ No. | Problem | Difficulty | Languages
 21 | [Merge Two Sorted Lists](Algorithms/21_Merge_Two_Sorted_Lists) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 23 | [Merge k Sorted Lists](Algorithms/23_Merge_k_Sorted_Lists) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 25 | [Reverse Nodes in k-Group](Algorithms/25_Reverse_Nodes_in_k-Group) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+33 | [Search in Rotated Sorted Array](Algorithms/33_Search_in_Rotated_Sorted_Array) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 54 | [Spiral Matrix](Algorithms/54_Spiral_Matrix) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 59 | [Spiral Matrix II](Algorithms/59_Spiral_Matrix_II) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 68 | [Text Justification](Algorithms/68_Text_Justification) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
@@ -61,9 +62,9 @@ No. | Problem | Difficulty | Languages
 
 <img alt="Database Logo" src=docs/img/database_logo.png width="100"/>
 
-Completed **36** out of **92** (unpaid) problems
+Completed **36** out of **95** (unpaid) problems
 
-![Progress Bar](https://progress-bar.xyz/39)
+![Progress Bar](https://progress-bar.xyz/38)
 
 No. | Problem | Difficulty | Languages
 --- | --- | --- | ---
