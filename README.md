@@ -10,7 +10,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **45** out of **2744** (unpaid) problems
+Completed **46** out of **2744** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/2)
 
@@ -55,6 +55,7 @@ No. | Problem | Difficulty | Languages
 295 | [Find Median from Data Stream](Algorithms/295_Find_Median_from_Data_Stream) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 297 | [Serialize and Deserialize Binary Tree](Algorithms/297_Serialize_and_Deserialize_Binary_Tree) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 417 | [Pacific Atlantic Water Flow](Algorithms/417_Pacific_Atlantic_Water_Flow) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+424 | [Longest Repeating Character Replacement](Algorithms/424_Longest_Repeating_Character_Replacement) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 438 | [Find All Anagrams in a String](Algorithms/438_Find_All_Anagrams_in_a_String) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 525 | [Contiguous Array](Algorithms/525_Contiguous_Array) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 647 | [Palindromic Substrings](Algorithms/647_Palindrome_Substrings) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
@@ -66,7 +67,7 @@ No. | Problem | Difficulty | Languages
 
 <img alt="Database Logo" src=docs/img/database_logo.png width="100"/>
 
-Completed **36** out of **95** (unpaid) problems
+Completed **36** out of **96** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/38)
 
