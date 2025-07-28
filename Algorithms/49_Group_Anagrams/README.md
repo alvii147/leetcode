@@ -16,15 +16,15 @@ Given an array of strings `strs`, group the anagrams together. You can return th
 
 **Example 2:**
 
-> Input: `strs = [""]`
+> **Input:** `strs = [""]`
 > 
-> Output: `[[""]]`
+> **Output:** `[[""]]`
 
 **Example 3:**
 
-> Input: `strs = ["a"]`
+> **Input:** `strs = ["a"]`
 > 
-> Output: `[["a"]]`
+> **Output:** `[["a"]]`
 
 **Constraints:**
 
