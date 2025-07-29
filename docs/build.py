@@ -1,5 +1,4 @@
 import os
-import json
 import requests
 
 LEETCODE_API_URL = 'https://leetcode.com/api/problems'
