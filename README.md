@@ -10,7 +10,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **52** out of **2748** (unpaid) problems
+Completed **53** out of **2748** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/2)
 
@@ -44,6 +44,7 @@ No. | Problem | Difficulty | Languages
 49 | [Group Anagrams](Algorithms/49_Group_Anagrams) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 53 | [Maximum Subarray](Algorithms/53_Maximum_Subarray) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | 
 54 | [Spiral Matrix](Algorithms/54_Spiral_Matrix) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+55 | [Jump Game](Algorithms/55_Jump_Game) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 59 | [Spiral Matrix II](Algorithms/59_Spiral_Matrix_II) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 68 | [Text Justification](Algorithms/68_Text_Justification) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 128 | [Longest Consecutive Sequence](Algorithms/128_Longest_Consecutive_Sequence) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
