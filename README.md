@@ -10,7 +10,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **54** out of **2748** (unpaid) problems
+Completed **55** out of **2748** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/2)
 
@@ -69,6 +69,7 @@ No. | Problem | Difficulty | Languages
 697 | [Degree of an Array](Algorithms/697_Degree_of_an_Array) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 994 | [Rotting Oranges](Algorithms/994_Rotting_Oranges) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 1391 | [Check if There is a Valid Path in a Grid](Algorithms/1391_Check_if_There_is_a_Valid_Path_in_a_Grid) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+2043 | [Simple Bank System](Algorithms/2043_Simple_Bank_System) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 2270 | [Number of Ways to Split Array](Algorithms/2270_Number_of_Ways_to_Split_Array) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 
 ## Database
