@@ -42,7 +42,7 @@ No. | Problem | Difficulty | Languages
 39 | [Combination Sum](Algorithms/39_Combination_Sum) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 48 | [Rotate Image](Algorithms/48_Rotate_Image) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 49 | [Group Anagrams](Algorithms/49_Group_Anagrams) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
-53 | [Maximum Subarray](Algorithms/53_Maximum_Subarray) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | 
+53 | [Maximum Subarray](Algorithms/53_Maximum_Subarray) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 54 | [Spiral Matrix](Algorithms/54_Spiral_Matrix) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 55 | [Jump Game](Algorithms/55_Jump_Game) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 56 | [Merge Intervals](Algorithms/56_Merge_Intervals) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
