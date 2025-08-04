@@ -10,7 +10,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **58** out of **2756** (unpaid) problems
+Completed **59** out of **2756** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/2)
 
@@ -67,6 +67,7 @@ No. | Problem | Difficulty | Languages
 435 | [Non-overlapping Intervals](Algorithms/435_Non-overlapping_Intervals) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 438 | [Find All Anagrams in a String](Algorithms/438_Find_All_Anagrams_in_a_String) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 525 | [Contiguous Array](Algorithms/525_Contiguous_Array) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+572 | [Subtree of Another Tree](Algorithms/572_Subtree_of_Another_Tree) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 647 | [Palindromic Substrings](Algorithms/647_Palindrome_Substrings) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 697 | [Degree of an Array](Algorithms/697_Degree_of_an_Array) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 981 | [Time Based Key-Value Store](Algorithms/981_Time_Based_Key-Value_Store) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
