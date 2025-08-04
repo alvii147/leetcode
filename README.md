@@ -10,7 +10,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **59** out of **2756** (unpaid) problems
+Completed **60** out of **2756** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/2)
 
@@ -48,6 +48,7 @@ No. | Problem | Difficulty | Languages
 56 | [Merge Intervals](Algorithms/56_Merge_Intervals) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 57 | [Insert Interval](Algorithms/57_Insert_Interval) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 59 | [Spiral Matrix II](Algorithms/59_Spiral_Matrix_II) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+62 | [Unique Paths](Algorithms/62_Unique_Paths) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 68 | [Text Justification](Algorithms/68_Text_Justification) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 76 | [Minimum Window Substring](Algorithms/76_Minimum_Window_Substring) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 128 | [Longest Consecutive Sequence](Algorithms/128_Longest_Consecutive_Sequence) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
