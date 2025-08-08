@@ -10,7 +10,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **62** out of **2756** (unpaid) problems
+Completed **63** out of **2756** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/2)
 
@@ -60,6 +60,7 @@ No. | Problem | Difficulty | Languages
 153 | [Find Minimum in Rotated Sorted Array](Algorithms/153_Find_Minimum_in_Rotated_Sorted_Array) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 190 | [Reverse Bits](Algorithms/190_Reverse_Bits) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 191 | [Number of 1 Bits](Algorithms/191_Number_of_1_Bits) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+215 | [Kth Largest Element in an Array](Algorithms/215_Kth_Largest_Element_in_an_Array) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 224 | [Basic Calculator](Algorithms/224_Basic_Calculator) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 268 | [Missing Number](Algorithms/268_Missing_Number) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 295 | [Find Median from Data Stream](Algorithms/295_Find_Median_from_Data_Stream) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
