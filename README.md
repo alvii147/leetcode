@@ -10,7 +10,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **63** out of **2756** (unpaid) problems
+Completed **64** out of **2756** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/2)
 
@@ -62,6 +62,7 @@ No. | Problem | Difficulty | Languages
 191 | [Number of 1 Bits](Algorithms/191_Number_of_1_Bits) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 215 | [Kth Largest Element in an Array](Algorithms/215_Kth_Largest_Element_in_an_Array) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 224 | [Basic Calculator](Algorithms/224_Basic_Calculator) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+230 | [Kth Smallest Element in a BST](Algorithms/230_Kth_Smallest_Element_in_a_BST) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 268 | [Missing Number](Algorithms/268_Missing_Number) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 295 | [Find Median from Data Stream](Algorithms/295_Find_Median_from_Data_Stream) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 297 | [Serialize and Deserialize Binary Tree](Algorithms/297_Serialize_and_Deserialize_Binary_Tree) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
@@ -84,9 +85,9 @@ No. | Problem | Difficulty | Languages
 
 <img alt="Database Logo" src=docs/img/database_logo.png width="100"/>
 
-Completed **36** out of **96** (unpaid) problems
+Completed **36** out of **97** (unpaid) problems
 
-![Progress Bar](https://progress-bar.xyz/38)
+![Progress Bar](https://progress-bar.xyz/37)
 
 No. | Problem | Difficulty | Languages
 --- | --- | --- | ---
