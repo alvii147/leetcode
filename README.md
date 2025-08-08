@@ -10,7 +10,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **64** out of **2756** (unpaid) problems
+Completed **65** out of **2756** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/2)
 
@@ -67,6 +67,7 @@ No. | Problem | Difficulty | Languages
 295 | [Find Median from Data Stream](Algorithms/295_Find_Median_from_Data_Stream) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 297 | [Serialize and Deserialize Binary Tree](Algorithms/297_Serialize_and_Deserialize_Binary_Tree) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 300 | [Longest Increasing Subsequence](Algorithms/300_Longest_Increasing_Subsequence) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+322 | [Coin Change](Algorithms/322_Coin_Change) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 417 | [Pacific Atlantic Water Flow](Algorithms/417_Pacific_Atlantic_Water_Flow) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 424 | [Longest Repeating Character Replacement](Algorithms/424_Longest_Repeating_Character_Replacement) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 435 | [Non-overlapping Intervals](Algorithms/435_Non-overlapping_Intervals) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
