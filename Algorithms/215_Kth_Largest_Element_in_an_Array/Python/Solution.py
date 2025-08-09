@@ -2,17 +2,15 @@ import heapq
 
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
-        # maintain max heap of numbers
-        maxHeap = []
+        # maintain min heap of numbers
+        min_heap = []
 
         for num in nums:
-            # add number to max heap
-            # by default, heapq implements min heap
-            # so we negate the numbers to make it a max heap
-            heapq.heappush(maxHeap, -num)
+            # add number to min heap
+            heapq.heappush(min_heap, num)
 
-        # pop the top k numbers from the heap
-        for _ in range(k):
-            kthLargest = -heapq.heappop(maxHeap)
+            # pop from min heap until we have exactly k numbers
+            while len(min_heap) > k:
+                heapq.heappop(min_heap)
 
-        return kthLargest
+        return heapq.heappop(min_heap)
