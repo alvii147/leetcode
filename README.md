@@ -10,7 +10,7 @@ This repository contains solutions to [LeetCode](https://leetcode.com/) problems
 
 <img alt="Algorithms Logo" src=docs/img/algorithms_logo.png width="100"/>
 
-Completed **67** out of **2760** (unpaid) problems
+Completed **68** out of **2772** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/2)
 
@@ -62,6 +62,7 @@ No. | Problem | Difficulty | Languages
 190 | [Reverse Bits](Algorithms/190_Reverse_Bits) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 191 | [Number of 1 Bits](Algorithms/191_Number_of_1_Bits) | ![Difficulty](https://img.shields.io/badge/Easy-lawngreen) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 198 | [House Robber](Algorithms/198_House_Robber) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+200 | [Number of Islands](Algorithms/200_Number_of_Islands) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 215 | [Kth Largest Element in an Array](Algorithms/215_Kth_Largest_Element_in_an_Array) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 224 | [Basic Calculator](Algorithms/224_Basic_Calculator) | ![Difficulty](https://img.shields.io/badge/Hard-orangered) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 230 | [Kth Smallest Element in a BST](Algorithms/230_Kth_Smallest_Element_in_a_BST) | ![Difficulty](https://img.shields.io/badge/Medium-gold) | ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
@@ -88,7 +89,7 @@ No. | Problem | Difficulty | Languages
 
 <img alt="Database Logo" src=docs/img/database_logo.png width="100"/>
 
-Completed **36** out of **97** (unpaid) problems
+Completed **36** out of **98** (unpaid) problems
 
 ![Progress Bar](https://progress-bar.xyz/37)
 
