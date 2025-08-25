@@ -1,3 +1,5 @@
+[![Genocide Watch](https://hinds-banner.vercel.app/genocide-watch?variant=classic)](https://www.pcrf.net)
+
 # LeetCode Problems & Solutions
 
 <img alt="LeetCode Logo" src="docs/img/leetcode_logo.png" width="400"/>
